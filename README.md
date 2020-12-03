@@ -1,2 +1,2 @@
 # Spring-Boot
-CRUD sample project using Spring MVC, Spring Data JPA, Hibernate
+CRUD sample project using Spring MVC, Spring Data JPA and Hibernate
